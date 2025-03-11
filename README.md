@@ -24,3 +24,7 @@ collaboratively, and upon saving, changes are stored in the database for future 
 expanded with user authentication, version history, and access control for enhanced functionality. By integrating PostgreSQL or MongoDB, the system ensures efficient and scalable data handling. This project 
 
 demonstrates real-time communication, database integration, and responsive UI development in a modern web application##
+
+#OUTPUT: 
+
+![Image](https://github.com/user-attachments/assets/dae926ed-9e2d-460c-bb83-d17bcd170266)
